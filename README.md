@@ -1,6 +1,6 @@
 # NebAnalysis
 
-Nebulous.io의 핵심 게임 로직을 코드 분석과 실험으로 정리한 문서 모음.
+Nebulous.io의 핵심 게임 로직을 정리한 문서 모음.
 
 ## 문서 목록
 
